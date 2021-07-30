@@ -35,7 +35,7 @@ console.log(keyPressed);
 
 	if(keyPressed == '82') // add appropriate keycode
 	{
-		block_x=100;
+		block_x=10;
 		// upload red ranger
 		new_image('rr1.png');
 		console.log("r");
@@ -64,7 +64,7 @@ console.log(keyPressed);
 	}
 	if(keyPressed == '66')
 	{
-		block_x = 700;
+		block_x = 650;
 	// upload blue ranger
 	new_image('br.png');
 		console.log("b");
